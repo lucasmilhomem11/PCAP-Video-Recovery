@@ -36,7 +36,7 @@ sudo apt install ffmpeg
 
 ### 2. Download the Script
 ```bash
-wget https://raw.githubusercontent.com/lucasmilhomem11/pcap-video-recovery/main/universal_Video_Recovery.py
+wget https://raw.githubusercontent.com/lucasmilhomem11/PCAP-Video-Recovery/refs/heads/main/Universal_video_Recovery.py
 chmod +x universal_extract.py
 ```
 
